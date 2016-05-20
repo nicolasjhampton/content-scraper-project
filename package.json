@@ -1,0 +1,19 @@
+{
+  "name": "content-scraper-project",
+  "version": "1.0.0",
+  "description": "A simple content scraper that creates an csv file of prices for the day. Created in Node.js",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasjhampton/content-scraper-project.git"
+  },
+  "author": "Nicolas Hampton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasjhampton/content-scraper-project/issues"
+  },
+  "homepage": "https://github.com/nicolasjhampton/content-scraper-project#readme"
+}
